@@ -23,7 +23,7 @@ Melon Unblocker is a high-performance web proxy designed to provide fast, secure
 
 ## 🔧 How It Works
 
-GastricV1 routes your internet traffic through secure servers, encrypting your connection and masking your IP address. This allows you to bypass network restrictions while keeping your online activities private.
+Melon Unblocker routes your internet traffic through secure servers, encrypting your connection and masking your IP address. This allows you to bypass network restrictions while keeping your online activities private.
 
 ## 📝 Usage
 
