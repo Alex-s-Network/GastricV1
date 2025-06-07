@@ -1,5 +1,5 @@
-# 🚀 GastricV1 - Fast & Private Web Proxy
-
+# 🚀 Melon Unblocker - Fast & Private Web Proxy
+[image_2025-04-23_203038567-removebg-preview](https://github.com/user-attachments/assets/4222ccab-fc87-4ffb-8280-cf0c9cc3f5dd)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
 [![Discord](https://img.shields.io/discord/your-discord-server-id?logo=discord)](https://discord.gg/EkxzYqaS43)
@@ -11,7 +11,8 @@ GastricV1 is a high-performance web proxy designed to provide fast, secure, and 
 - ⚡ **Lightning Fast** - Experience minimal latency with optimized routing
 - 🛡️ **Bypass Restrictions** - Access blocked websites at school or work
 - 🔒 **Enhanced Privacy** - Browse anonymously without being tracked
-- 🌐 **No Installation** - Works directly in your web browser
+- 🌐 **No Installation** - Works directly in your web browser!
+
 - 📱 **Mobile Friendly** - Responsive design for all devices
 
 ## 🚀 Quick Start
@@ -37,7 +38,7 @@ While GastricV1 provides enhanced privacy, please remember:
 
 ## ⚠️ Legal Disclaimer
 
-GastricV1 is intended for legal and ethical use only. Users are solely responsible for their actions while using this service. Please respect all applicable laws and regulations.
+Melon Unblocker is intended for legal and ethical use only. Users are solely responsible for their actions while using this service. Please respect all applicable laws and regulations.
 
 ## 🤝 Join Our Community
 
@@ -50,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*GastricV1 - Browse Freely, Browse Securely*
+*Melon Unblocker - Browse Freely, Browse Securely*
