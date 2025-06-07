@@ -1,4 +1,5 @@
-# 🚀 Melon Unblocker - Fast & Private Web Proxy   [image_2025-04-23_203038567-removebg-preview](https://github.com/user-attachments/assets/4222ccab-fc87-4ffb-8280-cf0c9cc3f5dd)
+# 🚀 Melon Unblocker - Fast & Private Web Proxy              ![image_2025-04-23_203038567-removebg-preview](https://github.com/user-attachments/assets/802729ea-2085-4dff-96f4-fb389177b49d)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
 [![Discord](https://img.shields.io/discord/your-discord-server-id?logo=discord)](https://discord.gg/EkxzYqaS43)
