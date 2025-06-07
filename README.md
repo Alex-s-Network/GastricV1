@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
 [![Discord](https://img.shields.io/discord/your-discord-server-id?logo=discord)](https://discord.gg/EkxzYqaS43)
 
-Melon Unblocker is a high-performance web proxy designed to provide fast, secure, and unrestricted internet access. Built to bypass school and workplace restrictions, GastricV1 ensures your browsing remains private and unmonitored.
+Melon Unblocker is a high-performance web proxy designed to provide fast, secure, and unrestricted internet access. Built to bypass school and workplace restrictions, Melon Unblocker ensures your browsing remains private and unmonitored.
 
 ## ✨ Features
 
@@ -31,7 +31,7 @@ Simply enter any website URL in the search bar and click "Go". Our proxy will ha
 
 ## 🔒 Privacy Notice
 
-While GastricV1 provides enhanced privacy, please remember:
+While Melon Unblocker provides enhanced privacy, please remember:
 - We do not log your browsing history
 - We do not store personal information
 - Always respect your institution's acceptable use policy
