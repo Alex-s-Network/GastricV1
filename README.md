@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
 [![Discord](https://img.shields.io/discord/your-discord-server-id?logo=discord)](https://discord.gg/EkxzYqaS43)
 
-GastricV1 is a high-performance web proxy designed to provide fast, secure, and unrestricted internet access. Built to bypass school and workplace restrictions, GastricV1 ensures your browsing remains private and unmonitored.
+Melon Unblocker is a high-performance web proxy designed to provide fast, secure, and unrestricted internet access. Built to bypass school and workplace restrictions, GastricV1 ensures your browsing remains private and unmonitored.
 
 ## ✨ Features
 
